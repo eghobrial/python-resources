@@ -1,0 +1,32 @@
+<client>
+<clientname>Martin Brown</clientname>
+<account>
+    <accname>Checking</accname>
+    <provider>HSBC</provider>
+    <balance>$4567.00</balance>
+    <transaction>
+        <payee>Rent</payee>
+        <amount>$280.00</amount>
+        <freq>Monthly</freq>
+    </transaction>
+    <transaction>
+        <payee>Time Subscription</payee>
+        <amount>$26.00</amount>
+        <freq>Quarterly</freq>
+    </transaction>
+</account>
+
+<account>
+    <accname>VISA</accname>
+    <provider>Morgan Dean Stanley Witter</provider>
+    <balance>$-3485.00</balance>
+    <transaction>
+        <payee>Supermarket</payee>
+        <amount>$-450.00</amount>
+    </transaction>
+    <transaction>
+        <payee>Gas Station</payee>
+        <amount>$-18.00</amount>
+    </transaction>
+</account>
+</client>

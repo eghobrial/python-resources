@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<log systemID="Unknown" MLN="Unknown" USN="Unknown" timeStamp="Sat Oct 15 03:00:28 2011" timeZone="PST-PDT">
+   <message type="parametricLog" time="Sat Oct 15 03:00:28 2011" source="Unknown">
+      <text />
+      <detail>
+         <parametricdata>
+            <data>
+               <config>
+                  <property name="SW Rev">DV22.0_V02_1122.a</property>
+                  <property name="HART">SRI4,,,,</property>
+               </config>
+               <group name="Temperatures">
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:00:28.152">22</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:00:28.153">22</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:00:28.154">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:00:28.155">238,238,238,238</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="10-15-2011 03:00:28.156">238</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:00:28.157">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:00:28.158">2006</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:00:28.159">-1</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:00:28.160">238,239,236,236</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Delta Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:00:28.161">0</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:00:28.162">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:00:29.152">2006</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:00:29.153">2006</value>
+                  </parameter>
+                  <parameter name="Raw Airflow"  unit="0.1 fpm">
+                     <value size="2"  starttime="10-15-2011 03:01:28.146">6296,6185</value>
+                  </parameter>
+                  <parameter name="Reported Airflow"  unit="0.1 fpm">
+                     <value size="1"  starttime="10-15-2011 03:01:28.147">6240</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:06:22.907">22</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:06:22.908">22</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:06:22.909">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:06:22.910">237,237,237,237</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="10-15-2011 03:06:22.911">237</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:06:22.912">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:06:22.913">2006</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:06:22.914">-1</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:06:22.915">237,238,235,235</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Delta Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:06:22.916">0</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:06:22.917">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:06:23.908">2006</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:06:23.909">2006</value>
+                  </parameter>
+                  <parameter name="Raw Airflow"  unit="0.1 fpm">
+                     <value size="2"  starttime="10-15-2011 03:07:22.901">6292,6125</value>
+                  </parameter>
+                  <parameter name="Reported Airflow"  unit="0.1 fpm">
+                     <value size="1"  starttime="10-15-2011 03:07:22.902">6208</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:17:49.899">2019</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:17:49.900">2016</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:22:31.657">22</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:22:31.658">22</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:22:31.659">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:22:31.660">238,238,237,238</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="10-15-2011 03:22:31.661">238</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:22:31.662">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:22:31.663">2019</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:22:31.664">-1</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:22:31.665">238,239,236,236</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Delta Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:22:31.666">0</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:22:31.667">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:22:32.657">2019</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:22:32.658">2019</value>
+                  </parameter>
+                  <parameter name="Raw Airflow"  unit="0.1 fpm">
+                     <value size="2"  starttime="10-15-2011 03:23:31.650">6300,6189</value>
+                  </parameter>
+                  <parameter name="Reported Airflow"  unit="0.1 fpm">
+                     <value size="1"  starttime="10-15-2011 03:23:31.651">6244</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:35:56.647">2031</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:35:56.648">2029</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:59:43.686">23</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:59:43.687">23</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:59:43.688">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:59:43.689">238,238,238,238</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="10-15-2011 03:59:43.690">238</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:59:43.691">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:59:43.692">2031</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:59:43.693">-1</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="10-15-2011 03:59:43.694">239,239,237,237</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Delta Temp"  unit="C">
+                     <value size="1"  starttime="10-15-2011 03:59:43.695">0</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Level"  unit="Level">
+                     <value size="1"  starttime="10-15-2011 03:59:43.696">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="10-15-2011 03:59:44.686">2031</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="10-15-2011 03:59:44.687">2031</value>
+                  </parameter>
+                  <parameter name="Raw Airflow"  unit="0.1 fpm">
+                     <value size="2"  starttime="10-15-2011 04:00:43.679">6286,6168</value>
+                  </parameter>
+				      <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="03-19-2012 07:33:11.365">2311</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="03-19-2012 07:33:11.366">2304</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 07:46:50.041">17</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 07:46:50.042">17</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:46:50.043">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:46:50.044">179,179,179,179</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:46:50.045">179</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:46:50.046">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="03-19-2012 07:46:50.047">2311</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="03-19-2012 07:46:50.048">-1</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:46:50.049">181,181,181,181</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Delta Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 07:46:50.050">0</value>
+                  </parameter>
+                  <parameter name="IBC Inlet Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:46:50.051">0</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="03-19-2012 07:46:51.041">2311</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="03-19-2012 07:46:51.042">2311</value>
+                  </parameter>
+                  <parameter name="Raw Airflow"  unit="0.1 fpm">
+                     <value size="2"  starttime="03-19-2012 07:48:03.032">9210,8457</value>
+                  </parameter>
+                  <parameter name="Reported Airflow"  unit="0.1 fpm">
+                     <value size="1"  starttime="03-19-2012 07:48:03.033">8833</value>
+                  </parameter>
+                  <parameter name="Scan Room Air Temp"  unit="0.01 C">
+                     <value size="1"  starttime="03-19-2012 07:53:31.031">2299</value>
+                  </parameter>
+                  <parameter name="Long Term Average Scan Room Air Temp"  unit="0.01">
+                     <value size="1"  starttime="03-19-2012 07:53:31.032">2301</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:56:20.031">182,189,183,186</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:56:20.032">189</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:56:20.033">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:56:48.031">186,199,187,193</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:56:48.032">199</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:56:48.033">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:57:17.030">195,209,191,203</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:57:17.031">209</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:57:17.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:57:47.030">201,217,196,213</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:57:47.031">217</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:57:47.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:58:22.030">210,227,200,223</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:58:22.031">227</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:58:22.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:58:51.030">220,235,204,232</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:58:51.031">235</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:58:51.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:59:21.030">230,243,209,240</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:59:21.031">243</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:59:21.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 07:59:57.030">240,251,214,249</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 07:59:57.031">251</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 07:59:57.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:00:37.030">250,259,219,258</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:00:37.031">259</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:00:37.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:01:19.030">260,266,224,266</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:01:19.031">266</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:01:19.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:01:58.029">270,272,229,273</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:01:58.030">273</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:01:58.031">0</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 08:03:30.029">19</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 08:03:30.030">19</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:03:30.031">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:03:35.030">276,262,232,270</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:03:35.031">276</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:03:35.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:04:10.029">271,254,229,260</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:04:10.030">271</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:04:10.031">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:05:48.030">263,264,231,265</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:05:48.031">265</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:05:48.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:07:17.030">271,274,234,275</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:07:17.031">275</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:07:17.032">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:08:06.028">275,264,234,271</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:08:06.029">275</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:08:06.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:08:37.029">271,254,231,262</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:08:37.030">271</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:08:37.031">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:09:09.028">265,245,227,252</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:09:09.029">265</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:09:09.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:09:45.028">255,235,223,243</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:09:45.029">255</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:09:45.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:10:26.029">245,227,218,233</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:10:26.030">245</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:10:26.031">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:11:04.028">235,220,214,226</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:11:04.029">235</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:11:04.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:11:51.028">225,213,209,217</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:11:51.029">225</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:11:51.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:12:53.028">215,205,204,209</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:12:53.029">215</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:12:53.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:14:06.027">205,199,199,201</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:14:06.028">205</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:14:06.029">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:16:14.028">195,192,193,193</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:16:14.029">195</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:16:14.030">0</value>
+                  </parameter>
+                  <parameter name="Gradient Raw Temp"  unit="0.1 C">
+                     <value size="4"  starttime="03-19-2012 08:20:26.027">185,185,186,185</value>
+                  </parameter>
+                  <parameter name="Gradient Reported Temp"  unit="0.1 C">
+                     <value size="1"  starttime="03-19-2012 08:20:26.028">186</value>
+                  </parameter>
+                  <parameter name="Gradient Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:20:26.029">0</value>
+                  </parameter>
+                  <parameter name="Bore Raw Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 08:33:04.026">17</value>
+                  </parameter>
+                  <parameter name="Bore Reported Temp"  unit="C">
+                     <value size="1"  starttime="03-19-2012 08:33:04.027">17</value>
+                  </parameter>
+                  <parameter name="Bore Level"  unit="Level">
+                     <value size="1"  starttime="03-19-2012 08:33:04.028">0</value>
+                  </parameter>
+               </group>
+            </data>
+         </parametricdata>
+      </detail>
+   </message>
+</log>
+				  
